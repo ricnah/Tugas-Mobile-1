@@ -24,3 +24,4 @@ flutter:
   # 🖼️ Tambahkan bagian ini untuk gambar profil
   assets:
     - assets/profile.jpg
+    - assets/hasil.png
